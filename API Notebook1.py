@@ -3,7 +3,7 @@
 
 # <img src="https://github.com/CorndelDataAnalyticsDiploma/workshop/blob/master/Corndel%20Digital%20Logo%20Centre.png?raw=true" alt="Corndel" width ="301.5" height=216>
 
-# # Learning to use APIs
+# # Learning to use APIs is so fun ---> changes
 # 
 # #### Welcome to the first workshop on APIs!
 # 
